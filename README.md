@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Backend`**
 
-Me chamo Igor Raphael Silva Corrêa, tenho 22 anos e sou natural do Maranhão. Atualmente, curso Ciência da Computação na UVA e tenho foco na área de desenvolvimento backend, com grande interesse em Java e tecnologias voltadas para construção de sistemas eficientes e escaláveis.
+Me chamo Igor Raphael Silva Corrêa, tenho 23 anos e sou natural do Maranhão. Atualmente, curso Ciência da Computação na UVA e tenho foco na área de desenvolvimento backend, com grande interesse em Java e tecnologias voltadas para construção de sistemas eficientes e escaláveis.
 Busco me aprimorar diariamente, desenvolvendo minhas habilidades técnicas e minha capacidade de resolver problemas reais através da programação. Sou uma pessoa dedicada, proativa e apaixonada por tecnologia, sempre em busca de novos conhecimentos e crescimento profissional na área de desenvolvimento de software.
 
 <p align="left">
